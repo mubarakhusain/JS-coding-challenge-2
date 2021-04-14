@@ -1,4 +1,5 @@
 # JS-coding-challenge-2
+Tech used: HTML, CSS, Bootstrap, Javascript, JQuery
 Challenge:
 1: Create a web page as per the mockup.
 2: On click of review starts scroll the page to the review div in 3s. 
